@@ -1,4 +1,4 @@
-# Sales Insights Data Analysis Project
+# Sales Insights Data Analysis
 This project analyzes sales data for a hardware company, providing insights into revenue, market performance, and product trends. The analysis is based on a MySQL database containing transaction data, customer information, product details, and market data.
 
 # Features
