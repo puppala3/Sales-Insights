@@ -1,11 +1,22 @@
-## Sales Insights Data Analysis Project
+# Sales Insights Data Analysis Project
+This project analyzes sales data for a hardware company, providing insights into revenue, market performance, and product trends. The analysis is based on a MySQL database containing transaction data, customer information, product details, and market data.
 
-### Instructions to setup mysql on your local computer
+# Features
+- Data analysis using MySQL
+- Visualization of key performance indicators
+- Market and product performance evaluation
+- Customer segmentation analysis
+# Database Structure
+- 'customers': Customer information
+- 'date': Date dimension table
+- 'markets': Market and zone information
+- 'products': Product details
+- 'transactions': Sales transaction data
 
-1. Follow step in this video to install mysql on your local computer
-https://www.youtube.com/watch?v=WuBcTJnIuzo
-
-1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
+# Usage
+- Set up the MySQL database using the provided SQL dump file.
+- Run SQL queries to extract insights from the data.
+- Use visualization tools to create dashboards and reports.
 
 ### Data Analysis Using SQL
 
