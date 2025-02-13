@@ -1,6 +1,8 @@
 # Sales Insights Data Analysis
 This project analyzes sales data for a hardware company, providing insights into revenue, market performance, and product trends. The analysis is based on a MySQL database containing transaction data, customer information, product details, and market data.
-
+# Dashboard
+![Image](https://github.com/user-attachments/assets/268e516d-3095-4b28-84a9-c5531289efd4)
+![Image](https://github.com/user-attachments/assets/c9cf1367-d889-411c-91b9-6521ed2524a1)
 # Features
 - Data analysis using MySQL
 - Visualization of key performance indicators
